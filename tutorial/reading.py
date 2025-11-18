@@ -7,17 +7,17 @@ df = pd.read_csv("data.csv")
 #print the csv file
 print(df.to_string())
 
-print()
+#print()
 
 #print the first few rows in the csv file
-print(df.head())
+#print(df.head())
 
-print()
+#print()
 
 #print the last few rows in the csv file
-print(df.tail())
+#print(df.tail())
 
-print()
+#print()
 
 #print the total rows of the csv file
-print(f"The number of rows are {len(df)}") 
+#print(f"The number of rows are {len(df)}") 
